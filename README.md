@@ -17,3 +17,6 @@ ERD-Diagram
 
 
 역할 분담표
+
+
+![역할 분담](https://github.com/woo0485/woodonggyun/assets/135837226/be084059-eeda-4ee5-b581-f539e388f4fb.JPG)
