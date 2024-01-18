@@ -14,3 +14,6 @@ ERD-Diagram
 개발 환경
 
 ![개발환경](https://github.com/woo0485/woodonggyun/assets/135837226/ddc39fc5-1904-4c73-b8dc-868d76781161.JPG)
+
+
+역할 분담표
