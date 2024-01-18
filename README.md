@@ -23,3 +23,6 @@
 ![역할 분담](https://github.com/woo0485/woodonggyun/assets/135837226/d62b2a6e-cead-47c9-af81-432bcc5aae8d.JPG)
 
 
+### 화면 구성
+
+
