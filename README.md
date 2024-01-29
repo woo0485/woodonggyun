@@ -26,10 +26,10 @@
 ## 주요 기능
 
 #### 메인 페이지
-![메인페이지](https://github.com/woo0485/woodonggyun/assets/135837226/e5e15653-93ab-4766-a1be-102263e02c73.JPG)
+<img src="https://github.com/woo0485/woodonggyun/assets/135837226/e5e15653-93ab-4766-a1be-102263e02c73.JPG" width="700" height="600"/>
 
 #### 지도 페이지
-![11](https://github.com/woo0485/woodonggyun/assets/135837226/c81772ac-a062-43c0-8d36-a3241169b4c7.JPG){: width="300" height="300"}
+<img src="https://github.com/woo0485/woodonggyun/assets/135837226/c81772ac-a062-43c0-8d36-a3241169b4c7.JPG" width="700" height="600"/>
 
 #### 축제 기사 페이지
 ![축제 기사](https://github.com/woo0485/woodonggyun/assets/135837226/87a7f3d6-82c8-455e-a3ad-5d5ecd1db45f.JPG)
