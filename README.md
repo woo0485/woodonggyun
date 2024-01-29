@@ -31,3 +31,12 @@
 #### 지도 페이지
 ![11](https://github.com/woo0485/woodonggyun/assets/135837226/c81772ac-a062-43c0-8d36-a3241169b4c7.JPG)
 
+#### 축제 기사 페이지
+![축제 기사](https://github.com/woo0485/woodonggyun/assets/135837226/87a7f3d6-82c8-455e-a3ad-5d5ecd1db45f.JPG)
+
+#### 축제 상품 페이지
+![축제상품](https://github.com/woo0485/woodonggyun/assets/135837226/bff89f7f-21cd-4f50-96d3-188b085d68e3.JPG)
+
+#### 갤러리 페이지
+
+![갤러리](https://github.com/woo0485/woodonggyun/assets/135837226/96d96b4a-01ec-4b5b-a05b-20927bed9690.JPG)
