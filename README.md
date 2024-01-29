@@ -23,5 +23,11 @@
 ![역할 분담](https://github.com/woo0485/woodonggyun/assets/135837226/d62b2a6e-cead-47c9-af81-432bcc5aae8d.JPG)
 
 
+## 주요 기능
 
+#### 메인 페이지
+![메인페이지](https://github.com/woo0485/woodonggyun/assets/135837226/e5e15653-93ab-4766-a1be-102263e02c73.JPG)
+
+#### 지도 페이지
+![11](https://github.com/woo0485/woodonggyun/assets/135837226/c81772ac-a062-43c0-8d36-a3241169b4c7.JPG)
 
