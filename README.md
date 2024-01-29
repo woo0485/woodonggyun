@@ -44,3 +44,6 @@
 #### 이벤트 페이지
 
 <img src="https://github.com/woo0485/woodonggyun/assets/135837226/4ee9e2ca-198b-4632-b03d-45f66c08655e.JPG" width="400" height="400"/>
+
+#### 마이 페이지
+<img src="https://github.com/woo0485/woodonggyun/assets/135837226/56229ea3-2018-43d9-aae6-4c8f9fe2c179.JPG"/>
