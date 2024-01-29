@@ -40,3 +40,5 @@
 #### 갤러리 페이지
 
 ![갤러리](https://github.com/woo0485/woodonggyun/assets/135837226/96d96b4a-01ec-4b5b-a05b-20927bed9690.JPG)
+
+#### 이벤트 페이지
