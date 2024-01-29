@@ -47,3 +47,11 @@
 
 #### 마이 페이지
 <img src="https://github.com/woo0485/woodonggyun/assets/135837226/56229ea3-2018-43d9-aae6-4c8f9fe2c179.JPG"/>
+
+#### 고객 센터 페이지
+
+<img src="https://github.com/woo0485/woodonggyun/assets/135837226/3a177feb-d6c5-4024-8113-863973a8b413.JPG" width="500" height="500"/>
+
+#### 관리자 페이지
+<img src="https://github.com/woo0485/woodonggyun/assets/135837226/1f68fb02-c341-41fc-9771-4ec8d8aecd60.JPG" width="500" height="500"/>
+
